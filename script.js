@@ -18,4 +18,4 @@ const strFunc = function (arg) {
     return arg;
 };
 
-console.log(strFunc("                fffqwdkdkkdQEQWQWdhsfhaskdhsafjlksfKFJ           "));
+console.log(strFunc("                aaabbbcccdddeeefffjjjlllQQQMMMWWW           "));
